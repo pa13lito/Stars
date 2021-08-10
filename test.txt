@@ -1,0 +1,1 @@
+id 	typeId 	warehouseId 	factoryCode 	salesChannelId 	tags 	sku 	barcode 	desc 	name 	kind 	weight 	cost 	taxes 	price 	total 	stock
